@@ -1,2 +1,2 @@
-# website-scraper-python
+# Web-Site Scraper
 Web-Site Scraping Utility
